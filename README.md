@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence and Full-stack developement
 - 🌱 I’m currently learning DSA with Python and Flutter
 - 💞️ I’m looking to collaborate on app developement
-- 📫 How to reach me linkedin and Gmail
+- 📫 How to reach me linkedin and Gmail [shreeraamvishaal@gmail.com]
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm not a pro in programming yet...
 
